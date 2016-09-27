@@ -1,0 +1,15 @@
+PODS:
+  - ObjectMapper (2.0.0)
+  - SwiftyUserDefaults (3.0.0)
+
+DEPENDENCIES:
+  - ObjectMapper (~> 2.0)
+  - SwiftyUserDefaults
+
+SPEC CHECKSUMS:
+  ObjectMapper: aed2570edabbd3c9b26c939e1cabdb6558f933e0
+  SwiftyUserDefaults: 0f1d45fc3aafb9064dac661e367f8f83fe21a4b4
+
+PODFILE CHECKSUM: 7c40f3be527303a0b69c8ad71044f9a185afa946
+
+COCOAPODS: 1.0.1
